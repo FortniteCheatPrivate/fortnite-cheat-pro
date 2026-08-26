@@ -1,4 +1,4 @@
-# 🎮 KyroFN
+# 🎮 FN
 
 ## ✨ Features
 
@@ -13,7 +13,7 @@
 
 ## ⚙️ Status
 
-🟢 **Project:** Active
+🟢 **Project:** Undetectet
 🧪 **Type:** Beta / UI Project
 🎮 **Game:** Fortnite
 🔒 **Anti-Cheat Bypass:** Yes
